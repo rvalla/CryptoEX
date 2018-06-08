@@ -1,0 +1,10 @@
+Manifest-Version: 1.0.0
+Main-Class: CryptoEX
+Created-By: Rodrigo Valla
+Name: CryptoEX
+Specification-Title: CryptoEX
+Specification-Version: 1.0.0
+Specification-Vendor: Rodrigo Valla
+Implementation-Title: CryptoEX
+Implementation-Version: 1.0.0
+Implementation-Vendor: Rodrigo Valla
