@@ -1,6 +1,3 @@
-CryptoEX is a little piece of software designed to support the teaching
-of cryptography while playing with different algorithms (2018).
-
 ---------------------------------------------------------------------
                       GNU GENERAL PUBLIC LICENSE
                        Version 3, 29 June 2007
