@@ -10,7 +10,7 @@ explore some aspects of cryptography.
 If you want to download the binaries they are in _build_ folder. This
 software is coded in [Java](https://en.wikipedia.org/wiki/Java_%28programming_language%29)
 so you need a _JRE_ to run it (download ir [here](https://www.java.com/es/)). Contact
-[rodrigovalla[at]yahoo.com.ar](mailto:rodrigovalla@yahoo.com.ar) for support.
+[rodrigovalla[at]protonmail.ch](mailto:rodrigovalla@protonmail.ch) for support.
 
 *Version 1.0.0 - June 2018*
 
