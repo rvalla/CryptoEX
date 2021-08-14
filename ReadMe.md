@@ -1,11 +1,11 @@
-![Icon](https://github.com/rvalla/CryptoEX/raw/master/assets/img/icon.png)
+![Icon](https://gitlab.com/rodrigovalla/cryptoex/-/raw/master/assets/img/Icon.png)
 # CryptoEX
 
 **CryptoEX** is a set of little software tools to explore some alternatives for encryption.
 It is not a profesional software, is intended to be used in the classroom to study and
 explore some aspects of cryptography.
 
-![Interface](https://github.com/rvalla/CryptoEX/raw/master/assets/img/Interface.png)
+![Interface](https://gitlab.com/musicaltools/cryptoex/-/raw/master/assets/img/Interface.png)
 
 If you want to download the binaries they are in _build_ folder. This
 software is coded in [Java](https://en.wikipedia.org/wiki/Java_%28programming_language%29)
