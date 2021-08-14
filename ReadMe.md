@@ -1,4 +1,4 @@
-![Icon](https://gitlab.com/rodrigovalla/cryptoex/-/raw/master/assets/img/Icon.png)
+![Icon](https://gitlab.com/rodrigovalla/cryptoex/-/raw/master/assets/img/icon.png)
 # CryptoEX
 
 **CryptoEX** is a set of little software tools to explore some alternatives for encryption.
